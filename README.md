@@ -137,13 +137,11 @@ Example:
 
 ## 📈 Results
 
-| Emotion | Precision | Recall | F1-score |
-| ------- | --------- | ------ | -------- |
-| Anger   | 0.91      | 0.89   | 0.90     |
-| Stress  | 0.88      | 0.90   | 0.89     |
-| Anxiety | 0.92      | 0.93   | 0.92     |
-
-Overall accuracy: **90%**
+Emotion	Precision	Recall	F1-Score
+Anger	0.84	0.88	0.86
+Stress	0.79	0.72	0.75
+Anxiety	0.65	0.64	0.64
+Overall accuracy: 80%
 
 ---
 
